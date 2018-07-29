@@ -26,7 +26,10 @@ code_file = "FoodPrice1.R"  #not used
 input_data = "Food_Price.csv"  
 ###############  
 
-Download "FoodPriceIndex.Rmd", "Food_Price.csv", update the locations on your computer and should run as R markdown.
+Download "FoodPriceIndex.Rmd", "Food_Price.csv",   
+update the locations on your computer and should run as R markdown.  
+Will also make individual graphs and store them in your output_folder.  
+
 ------------------------
 
 Relevance: During Irish famine, food prices spiked, food available but unafordable  
