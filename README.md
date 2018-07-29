@@ -18,16 +18,17 @@ Reference:
 >Wadhams, Peter. A Farewell to Ice: A Report from the Arctic (p. 141). 
 Oxford University Press. Kindle Edition. 
 
+## African Food Riots (2007 - 2008)  
+* Food riots in Africa in 2008: [Wikipedia](https://en.wikipedia.org/wiki/2007%E2%80%9308_world_food_price_crisis) 
+* According to [this independent news - *Food riots shut down main towns*:](http://www.irinnews.org/report/76905/burkina-faso-food-riots-shut-down-main-towns
+)
+
 ## The Arab Spring (started 2010)
 
 * uprising may have been triggered by increased food prices
 * first protests that occurred in Tunisia on 18 December 2010
 * Reference: [Arab Spring](https://en.wikipedia.org/wiki/Arab_Spring)
 
-## African Food Riots (2007 - 2008)  
-* Preceded by riots in Africa in 2008: [Wikipedia](https://en.wikipedia.org/wiki/2007%E2%80%9308_world_food_price_crisis) 
-* According to [this independent news - *Food riots shut down main towns*:](http://www.irinnews.org/report/76905/burkina-faso-food-riots-shut-down-main-towns
-)
 
 ## Academic Study: Food Prices and Political Instability
 Rabah Arezki & Markus Brückner, 2011.
