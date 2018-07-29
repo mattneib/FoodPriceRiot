@@ -1,12 +1,14 @@
 # FoodPriceRiot
 Food Price Index and political instability
-food price index, 7/2018, by matt2001, graph of food prices and food riots
+food price index  
+7/2018  
+by matt2001   
 
-Tools: RStudio, R markdown
-libraries used:
-library(dplyr)
-library(lubridate)
-library(ggplot2)
+Tools: RStudio, R markdown  
+libraries used:  
+library(dplyr)  
+library(lubridate)  
+library(ggplot2)  
 
 Data from the United Nations: 
 The FAO Food Price Index is a measure of the monthly change in 
