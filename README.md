@@ -17,14 +17,17 @@ international prices of a basket of food commodities. Monthly updates.
 Will need to update locations and folder names in "FoodPriceIndex.Rmd": 
 
 >#location of files and folders:  
-code_folder <- "/Users/matt/R Code" #location of R code  
+code_folder <- "/Users/matt/R Code" #location of R code  - not used  
 input_folder <- "/Users/matt/R csvData"  #location of csv data  
 output_folder <- "/Users/matt/R Output"  #where output goes  
 
 >###############  
-code_file = "FoodPrice1.R"  
+code_file = "FoodPrice1.R"  #not used  
 input_data = "Food_Price.csv"  
 ###############  
+
+Download "FoodPriceIndex.Rmd", "Food_Price.csv", update the locations on your computer and should run as R markdown.
+------------------------
 
 Relevance: During Irish famine, food prices spiked, food available but unafordable  
 Reference:  
