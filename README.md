@@ -11,9 +11,8 @@ library(lubridate)
 library(ggplot2)  
 
 Data from the United Nations: 
-The FAO Food Price Index is a measure of the monthly change in 
+[The FAO Food Price Index](http://www.fao.org/worldfoodsituation/foodpricesindex/en/) is a measure of the monthly change in 
 international prices of a basket of food commodities. Monthly updates.
-web site: http://www.fao.org/worldfoodsituation/foodpricesindex/en/
 
 Relevance: During Irish famine, food prices spiked, food available but unafordable  
 Reference:  
@@ -32,7 +31,7 @@ Oxford University Press. Kindle Edition.
 * Reference: [Arab Spring](https://en.wikipedia.org/wiki/Arab_Spring)
 
 
-## Academic Study: Food Prices and Political Instability
+## Related Academic Study: Food Prices and Political Instability
 Rabah Arezki & Markus Brückner, 2011.
 "<B><A HREF="https://ideas.repec.org/p/ces/ceswps/_3544.html">Food Prices and Political Instability</A></B>,"
 <A HREF="https://ideas.repec.org/s/ces/ceswps.html">CESifo Working Paper Series</A> 
