@@ -1,6 +1,6 @@
 # FoodPriceRiot
-Food Price Index and political instability
-food price index  
+Food Price Index and political instability  
+
 7/2018  
 by matt2001   
 
