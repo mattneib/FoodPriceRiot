@@ -2,9 +2,15 @@
 Food Price Index and political instability
 food price index, 7/2018, by Matt Neibaur, graph of food prices and food riots
 
+Tools: RStudio, R markdown
+libraries used:
+library(dplyr)
+library(lubridate)
+library(ggplot2)
+
 Data from the United Nations: 
 The FAO Food Price Index is a measure of the monthly change in 
-international prices of a basket of food commodities.
+international prices of a basket of food commodities. Monthly updates.
 web site: http://www.fao.org/worldfoodsituation/foodpricesindex/en/
 
 Relevance: During Irish famine, food prices spiked, food available but unafordable
